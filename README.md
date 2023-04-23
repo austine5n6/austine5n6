@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-Austin is a full-stack developer, with intermediate knowledge and experience with object oriented programming languages Java and Javascript. He is eager to contribute to team success through hardwork, attention to details and excellent organisation skills with 2 years experience in software development using Javascript front-end frameworks like Reactjs, Vuejs with NodeJs for the backend.
+Austin is a full-stack developer, with intermediate knowledge and experience with object oriented programming languages like Java and Javascript. He is eager to contribute to team success through hardwork, attention to details and excellent organisation skills with 3 years experience in software development using Javascript front-end frameworks like Reactjs, Vuejs with NodeJs for the backend.
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [My-portfolio](http://austinoz.net)
